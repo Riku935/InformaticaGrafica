@@ -79,7 +79,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _OpaqueCullMode: 2
     - _RenderQueueType: 1
-    - _Scroll: 321.52
+    - _Scroll: 2
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 0
@@ -107,5 +107,5 @@ Material:
     m_Colors:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _tilling: {r: 1, g: 1, b: 0, a: 0}
+    - _tilling: {r: 5, g: 5, b: 0, a: 0}
   m_BuildTextureStacks: []
